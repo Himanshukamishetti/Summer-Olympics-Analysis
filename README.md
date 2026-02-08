@@ -1,5 +1,7 @@
 # Summer-Olympics-Analysis 🏅
 A Streamlit web application for the analysis of olympics dataset.
+
+
 Dataset link :- https://www.kaggle.com/datasets/nitishsharma01/olympics-124-years-datasettill-2020
 
 This project analyzes historical Summer Olympics data to uncover trends, patterns, and insights using Python and data visualization techniques.
